@@ -43,7 +43,7 @@ O EVENTECH é uma API desenvolvida para gerenciar eventos acadêmicos, permitind
 
 Com as dependências instaladas, execute:
 
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 
 Depois, acesse a documentação interativa da API pelo Swagger:
 
